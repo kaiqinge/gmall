@@ -5,4 +5,8 @@ package com.atguigu.gmall;
  * @since 2019/7/6
  */
 public class AAAAAAA {
+
+    public static void main(String[] args){
+
+    }
 }
