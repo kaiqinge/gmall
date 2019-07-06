@@ -13,6 +13,8 @@ import java.util.List;
 @Data
 public class BaseAttrInfo implements Serializable {
 
+    String a = "修改过的东西";
+
     @Id
     @Column
     @GeneratedValue(strategy = GenerationType.IDENTITY)
